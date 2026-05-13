@@ -1,0 +1,3 @@
+[submodule "opi_lab2_submodule"]
+	path = opi_lab2_submodule
+	url = https://github.com/N1kLeS/opi_lab2_submodule.git
